@@ -1,0 +1,1 @@
+az aks get-credentials --resource-group rg-sc-aks --name k8s-basic
